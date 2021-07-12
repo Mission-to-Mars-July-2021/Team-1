@@ -1,14 +1,16 @@
-# TeamName
+# Clueless
 
 TinkerCad Circuit basic design URL is
 
 https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY
 
 ## Team Values
-What are your team values?
+Being clueless, being punctual and focused and being collaborative
 
 ## Scrum Git
-Replace with your name and item. 
+Sam
+Liam
+Nicholas
 
 ## Day 1 Retrospective
 
