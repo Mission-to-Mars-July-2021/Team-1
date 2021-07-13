@@ -1,5 +1,13 @@
 # Clueless
 
+<<<<<<< HEAD
+**Resources**
+[TinkerCad](https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY)
+
+[Diagrams](https://cdn.discordapp.com/attachments/864087098730741792/864441848746213386/TinkerCad_Diagrams.pdf)
+
+[Stories](https://cdn.discordapp.com/attachments/864087098730741792/864087659261591562/Virtual_Mission_to_Mars_Stories.pdf)
+=======
 
 <details><summary>Resources</summary>
 <p>
@@ -12,6 +20,7 @@ Resources
 [Stories](https://cdn.discordapp.com/attachments/864087098730741792/864087659261591562/Virtual_Mission_to_Mars_Stories.pdf)
 </p>
 </details>
+>>>>>>> 7acfeafac675ec2cacceeb501afd7bcc3a4c1b9f
 
 ## Team Values
 Being clueless, being punctual, focused and collaborative
@@ -40,6 +49,22 @@ Less disorganisation and neater hardware and software.
 </details>
 
 ## Day 2 Retrospective
+
+<details><summary>Retrospective</summary>
+
+### What went well
+We got several stories complete and managed to resolve our mistakes when we made them
+
+### What didn't go well
+We used different branches on GIT - we should be using the same branch in the future
+
+### What we will do more of tomorrow
+We aim to do more stories as the week progresses to finish and test our rover programming
+
+### What we will do less of tomorrow
+We will aim to make less mistakes through use of collaboration
+
+</details>
 
 ## Day 3 Retrospective
 
