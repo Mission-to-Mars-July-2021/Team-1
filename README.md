@@ -9,6 +9,7 @@
 
 [Stories](https://cdn.discordapp.com/attachments/864087098730741792/864087659261591562/Virtual_Mission_to_Mars_Stories.pdf)
 </p>
+</details>
 
 ## Team Values
 Being clueless, being punctual, focused and collaborative
