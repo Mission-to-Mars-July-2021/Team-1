@@ -5,7 +5,7 @@ TinkerCad Circuit basic design URL is
 https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY
 
 ## Team Values
-Being clueless, being punctual and focused and being collaborative
+Being clueless, being punctual, focused and collaborative
 
 ## Scrum Git
 Sam
@@ -15,12 +15,16 @@ Nicholas
 ## Day 1 Retrospective
 
 ### What went well
+We efficiently communicated as a team to solve problems that we encountered while designing the hardware and software of the rover.
 
 ### What didn't go well
+The organisation of our code and resources was not up to professional standard.
 
 ### What we will do more of tomorrow
+Seek help from mentors when issues arise that we cannot rectify
 
 ### What we will do less of tomorrow
+Less disorganisation and neater hardware and software.
 
 ## Day 2 Retrospective
 
