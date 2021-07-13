@@ -46,7 +46,7 @@ void loop()
   //Serial.print("Right Counter ");
   //Serial.println(rightcounter);
   
-  if(leftcounter >=5){
+  if(leftcounter >=870){
     Serial.println("Stop called");
     stop_rover(100000000);
   }
