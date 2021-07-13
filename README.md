@@ -1,8 +1,11 @@
 # Clueless
 
-TinkerCad Circuit basic design URL is
+**Resources**
+[TinkerCad](https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY)
 
-https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY
+[Diagrams](https://cdn.discordapp.com/attachments/864087098730741792/864441848746213386/TinkerCad_Diagrams.pdf)
+
+[Stories](https://cdn.discordapp.com/attachments/864087098730741792/864087659261591562/Virtual_Mission_to_Mars_Stories.pdf)
 
 ## Team Values
 Being clueless, being punctual, focused and collaborative
