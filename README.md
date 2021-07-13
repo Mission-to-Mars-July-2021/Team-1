@@ -1,7 +1,7 @@
 # Clueless
 
 
-<details><summary>**Resources**</summary>
+<details><summary>Resources</summary>
 <p>
 Resources
 
@@ -23,7 +23,7 @@ Nicholas
 
 ## Day 1 Retrospective
 
-<details><summary>**Retrospective*</summary>
+<details><summary>Retrospective</summary>
 
 ### What went well
 We efficiently communicated as a team to solve problems that we encountered while designing the hardware and software of the rover.
