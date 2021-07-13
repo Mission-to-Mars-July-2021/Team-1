@@ -3,6 +3,8 @@
 
 <details><summary>**Resources**</summary>
 <p>
+Resources
+
 [TinkerCad](https://www.tinkercad.com/things/bbRPA2QoqOV-team1/editel?sharecode=ZBeQhh17jUikznvsGRZypjfcYoWp6huOA6y6t5P-ZSY)
 
 [Diagrams](https://cdn.discordapp.com/attachments/864087098730741792/864441848746213386/TinkerCad_Diagrams.pdf)
@@ -21,6 +23,8 @@ Nicholas
 
 ## Day 1 Retrospective
 
+<details><summary>**Retrospective*</summary>
+
 ### What went well
 We efficiently communicated as a team to solve problems that we encountered while designing the hardware and software of the rover.
 
@@ -32,6 +36,8 @@ Seek help from mentors when issues arise that we cannot rectify
 
 ### What we will do less of tomorrow
 Less disorganisation and neater hardware and software.
+
+</details>
 
 ## Day 2 Retrospective
 
