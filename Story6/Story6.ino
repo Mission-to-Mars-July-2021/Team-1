@@ -25,13 +25,12 @@ void setup()
   pinMode(reverse_right_motor, OUTPUT);
   pinMode(forward_right_motor, OUTPUT);
   forwards_rover_without_delay();
-
+  SetLeftMotor(100);
+  SetRightMotor(100);
 }
 
 void loop()
 {
-  SetLeftMotor(100);
-  SetRightMotor(100);
   if(leftcounter > rightcounter){
 	SetRightMotor(150);
   }
