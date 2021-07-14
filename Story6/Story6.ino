@@ -42,8 +42,10 @@ void loop()
 	SetLeftMotor(100);
     SetRightMotor(100);
   }
-  stop_rover_after(20000,100000);
-}
+  if(millis() >= 10000) {
+  stop_rover(0);
+  }
+  }
 
 void SetLeftMotor(int speed) {
   analogWrite(enable_left_motor, speed);
