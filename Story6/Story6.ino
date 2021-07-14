@@ -80,7 +80,7 @@ void stop_rover(int length) {
 }
 void stop_rover_after(int length, int duration) {
   delay(length);
-  stop_rover(duration)
+  stop_rover(duration);
 
 }
 void reverse_rover(int duration) {
