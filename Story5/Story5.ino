@@ -31,32 +31,32 @@ void loop()
   
     forwards_rover_without_delay();
     SetLeftMotor(100);
-    delay(3000);
+  	delay(3000);
     SetLeftMotor(255);
-    delay(2000);
+  	delay(2000);
     SetRightMotor(100);
-    delay(3000);
-    SetRightMotor(255);
-  delay(2000);
+  	delay(3000);
+  	SetRightMotor(255);
+	delay(2000);
     SetLeftMotor(100);
-    delay(3000);
+  	delay(3000);
     SetLeftMotor(255);
-    delay(2000);
+  	delay(2000);
     SetRightMotor(100);
-    delay(3000);
-    SetRightMotor(255);
-  delay(2000);
+  	delay(3000);
+  	SetRightMotor(255);
+	delay(2000);
     stop_rover(500000);
 }
 
 void SetLeftMotor(int speed) {
-  digitalWrite(enable_left_motor, HIGH);
-  analogWrite(forward_left_motor, speed);
+  analogWrite(enable_left_motor, speed);
+  //analogWrite(forward_left_motor, speed);
 }
 
 void SetRightMotor(int speed) {
-  digitalWrite(enable_right_motor, HIGH);
-  analogWrite(forward_right_motor, speed);
+  analogWrite(enable_right_motor, speed);
+  //analogWrite(forward_right_motor, speed);
 }
 
 void distancemeasurement() {
@@ -112,5 +112,5 @@ void LeftMotorISR(){
 }
 
 void RightMotorISR(){
-  rightcounter++;
+	rightcounter++;
 }  
