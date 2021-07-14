@@ -24,24 +24,25 @@ void setup()
   pinMode(enable_right_motor, OUTPUT);
   pinMode(reverse_right_motor, OUTPUT);
   pinMode(forward_right_motor, OUTPUT);
+  forwards_rover_without_delay();
+
 }
 
 void loop()
 {
-  forwards_rover(0);
   SetLeftMotor(100);
   SetRightMotor(100);
   if(leftcounter > rightcounter){
-  SetRightMotor(200);
+	SetRightMotor(200);
   }
   if(leftcounter < rightcounter){
-  SetLeftMotor(200);
+	SetLeftMotor(200);
   }
   if(leftcounter == rightcounter){
-  SetLeftMotor(100);
+	SetLeftMotor(100);
     SetRightMotor(100);
   }
-  stop_rover_after(10,100000);
+  stop_rover_after(20000,100000);
 }
 
 void SetLeftMotor(int speed) {
@@ -111,5 +112,5 @@ void LeftMotorISR(){
 }
 
 void RightMotorISR(){
-  rightcounter++;
+	rightcounter++;
 }  
