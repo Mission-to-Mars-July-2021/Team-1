@@ -33,14 +33,16 @@ void loop()
 {
   if(leftcounter > rightcounter){
 	SetRightMotor(150);
-  } else(leftcounter < rightcounter){
+    SetLeftMotor(100);
+  } else if(leftcounter < rightcounter){
 	SetLeftMotor(150);
-  } else(leftcounter == rightcounter){
+    SetRightMotor(100);
+  } else{
 	SetLeftMotor(100);
     SetRightMotor(100);
   }
   if(millis() >= 10000) {
-  stop_rover(0);
+  stop_rover(100000);
   }
 }
 
