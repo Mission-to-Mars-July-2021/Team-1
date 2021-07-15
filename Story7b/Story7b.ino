@@ -38,7 +38,7 @@ void loop()
   for(int i  = 0; i < 4; i++) {
   forwards_rover(1500);
   stop_rover(500);
-  turn_left_rover(800);
+  turn_left_rover(750);
   stop_rover(500);
   }
   stop_rover(500000); //ok
